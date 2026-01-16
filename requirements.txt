@@ -2,9 +2,6 @@ fastapi
 uvicorn
 torch
 torchvision
-opencv-python
 pillow
-numpy
-certifi
-python-multipart
+numpy >= 2.0,< 2.3
 requests
